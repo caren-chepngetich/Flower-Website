@@ -1,0 +1,32 @@
+
+    #register{
+        background-color: green;
+        color: white;
+        display: flex;
+        gap: 30%;
+    }
+    #nav{
+        display: flex;
+        gap: 30%;
+    }
+    #fall{
+        display: flex;
+    }
+    #plants{
+        display: flex;
+    }
+#orchid{
+    display: flex;
+}
+#clients{
+    display: flex;
+}
+#blog{
+    display: flex;
+}
+@media screen (min-width:414px) and 
+(max-width:728px){
+    
+
+}
+
