@@ -1,31 +1,79 @@
 
-    #register{
+    #Register{
         background-color: green;
         color: white;
         display: flex;
         gap: 30%;
+        height 100%;
+        width: 50%;
     }
     #nav{
         display: flex;
-        gap: 30%;
+        gap: 5%;
+        margin-bottom: 50px;
     }
     #fall{
         display: flex;
+        margin-bottom: 50px;
     }
     #plants{
         display: flex;
+        margin-bottom: 50px;
     }
 #orchid{
     display: flex;
+    margin-bottom: 50px;
 }
 #clients{
     display: flex;
+    gap: 20%;
 }
 #blog{
     display: flex;
 }
+#cactus{
+    display: flex;
+}
+#flowers{
+    display: flex;
+    gap 20%
+    margin-bottom: 50px;
+}
+#living{
+    text-align: center;
+    background-repeat: none;
+}
+#glass{
+    display: flex;
+    gap: 20%;
+}
+#light{
+    display: flex;
+    gap: 20%;
+}
+#green{
+    display: flex;
+    gap: 20%;
+}
+#store{
+    display: flex;
+    gap 2%
+}
+#sale{
+    display: flex;
+    gap 2% 
+}
+#tulips{
+    display: flex;
+    gap 2%
+}
+#house{
+    display: flex;
+    gap 2%
+}
 @media screen (min-width:414px) and 
 (max-width:728px){
+
     
 
 }
